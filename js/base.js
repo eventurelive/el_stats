@@ -1,4 +1,4 @@
-var folder = "https://dl.dropboxusercontent.com/spa/5rh51y7rqq0sifl/eventurelive/img/yes";
+var folder = "https://raw.githubusercontent.com/thomasclarke/el_stats/master/img/yes";
 
 $.ajax({
     url : folder,
