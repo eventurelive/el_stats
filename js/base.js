@@ -1,4 +1,4 @@
-var folder = "https://raw.githubusercontent.com/thomasclarke/el_stats/master/img/yes";
+var folder = "https://thomasclarke.github.io/el_stats/";
 
 $.ajax({
     url : folder,
